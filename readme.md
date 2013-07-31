@@ -6,9 +6,6 @@ The code is change so it assume the result of a function that is not returning t
 That way I prevent testing of additional rules from the chain, after any of them fails.
 siply saying that if the user is tested if it is logged and it fails, weshouldn't test for any other rights.
 
-
-[![Build Status](https://secure.travis-ci.org/rights-middleware.png?branch=master)](http://travis-ci.org/talamaska/rights-middleware)
-[![Dependency Status](https://gemnasium.com/talamaska/rights-middleware.png)](https://gemnasium.com/talamaska/rights-middleware)
 [![NPM version](https://badge.fury.io/js/rights-middleware.png)](http://badge.fury.io/js/rights-middleware)
 
 
