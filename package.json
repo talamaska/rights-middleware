@@ -1,7 +1,7 @@
 {
   "name": "rights-middleware",
   "description": "Provides dynamic roles based authorization for node.js connect and express servers. This module is a fork from git://github.com/ForbesLindesay/connect-roles.git",
-  "version": "2.1.1",
+  "version": "3.0.0",
   "homepage": "http://github.com/talamaska/rights-middleware",
   "repository": {
     "type": "git",
