@@ -1,0 +1,40 @@
+{
+  "name": "rights-middleware",
+  "description": "Provides dynamic roles based authorization for node.js connect and express servers. This module is a fork from git://github.com/ForbesLindesay/connect-roles.git",
+  "version": "2.1.1",
+  "homepage": "http://github.com/talamaska/rights-middleware",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/talamaska/rights-middleware.git"
+  },
+  "main": "./index",
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": "Forbes Lindesay",
+  "contributors": [ 
+    {
+      "name": "Zlati Pehlivanov",
+      "email": "zlati.pehlivanov@gmail.com"
+    } 
+  ],
+  "license": "BSD",
+  "keywords": [
+    "roles",
+    "authorization",
+    "authentication",
+    "security",
+    "connect",
+    "express",
+    "passport",
+    "everyauth"
+  ],
+  "dependencies": {
+    "debug": "0.7.2",
+    "path-to-regexp": "0.0.2",
+    "ert": "1.0.1"
+  }
+}
