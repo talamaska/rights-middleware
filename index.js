@@ -1,6 +1,6 @@
 "use strict";
 
-var debug = require('debug')('connect-roles');
+var debug = require('debug')('rights-middleware');
 var ert = require('ert');
 var pathToRegexp = require('path-to-regexp');
 
